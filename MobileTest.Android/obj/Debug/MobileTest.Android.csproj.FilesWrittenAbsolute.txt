@@ -1,0 +1,13 @@
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/obj/Debug/MonoAndroid,Version=v2.2.AssemblyAttribute.cs
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/bin/Debug/MobileTest.Android.dll.mdb
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/bin/Debug/MobileTest.Android.dll
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/bin/Debug/MobileTest.Android.apk
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/obj/Debug/android/bin/MobileTest.Android.apk
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/obj/Debug/res/layout/main.xml
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/obj/Debug/res/values/strings.xml
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/obj/Debug/res/drawable/icon.png
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/obj/Debug/R.cs.flag
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/bin/Debug/MobileTest.Android-Signed.apk
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/obj/Debug/uploadflags.txt
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/obj/Debug/MobileTest.Android.dll
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/obj/Debug/MobileTest.Android.dll.mdb

@@ -1,0 +1,1 @@
+/Users/simone.basso/code/smnbss/MobileTest/MobileTest.Android/bin/Debug/MobileTest.Android.dll

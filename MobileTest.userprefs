@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileTest.Core/MyClass.cs">
+    <Files>
+      <File FileName="Mobile.iPhone/Mobile_iPhoneViewController.cs" Line="29" Column="24" />
+      <File FileName="MobileTest.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="MobileTest.Core/MyClass.cs" Line="5" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MobileTest.Android AndroidDeviceId-Debug="emulator-5554" />
+</Properties>
