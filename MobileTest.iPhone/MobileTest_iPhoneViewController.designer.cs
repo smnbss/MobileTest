@@ -5,10 +5,10 @@
 //
 using MonoTouch.Foundation;
 
-namespace Mobile.iPhone
+namespace MobileTest.iPhone
 {
-	[Register ("Mobile_iPhoneViewController")]
-	partial class Mobile_iPhoneViewController
+	[Register ("MobileTest_iPhoneViewController")]
+	partial class MobileTest_iPhoneViewController
 	{
 		void ReleaseDesignerOutlets ()
 		{

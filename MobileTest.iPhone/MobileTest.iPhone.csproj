@@ -5,12 +5,12 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>10.0.0</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{5CE54743-39F5-4DB8-98D1-E47A1FB01C1D}</ProjectGuid>
+    <ProjectGuid>{14F4EADF-E34B-4628-A895-67B7499E14EA}</ProjectGuid>
     <ProjectTypeGuids>{6BC8ED88-2882-458C-8E55-DFD12B67127B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Mobile.iPhone</RootNamespace>
+    <RootNamespace>MobileTest.iPhone</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>MobileiPhone</AssemblyName>
+    <AssemblyName>MobileTestiPhone</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
     <DebugSymbols>true</DebugSymbols>
@@ -90,13 +90,13 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="Mobile_iPhoneViewController.cs" />
-    <Compile Include="Mobile_iPhoneViewController.designer.cs">
-      <DependentUpon>Mobile_iPhoneViewController.cs</DependentUpon>
+    <Compile Include="MobileTest_iPhoneViewController.cs" />
+    <Compile Include="MobileTest_iPhoneViewController.designer.cs">
+      <DependentUpon>MobileTest_iPhoneViewController.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <InterfaceDefinition Include="Mobile_iPhoneViewController.xib" />
+    <InterfaceDefinition Include="MobileTest_iPhoneViewController.xib" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

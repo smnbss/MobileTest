@@ -4,7 +4,7 @@ using System.Linq;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
-namespace Mobile.iPhone
+namespace MobileTest.iPhone
 {
 	public class Application
 	{

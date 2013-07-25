@@ -3,11 +3,11 @@ using System.Drawing;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
-namespace Mobile.iPhone
+namespace MobileTest.iPhone
 {
-	public partial class Mobile_iPhoneViewController : UIViewController
+	public partial class MobileTest_iPhoneViewController : UIViewController
 	{
-		public Mobile_iPhoneViewController () : base ("Mobile_iPhoneViewController", null)
+		public MobileTest_iPhoneViewController () : base ("MobileTest_iPhoneViewController", null)
 		{
 		}
 
